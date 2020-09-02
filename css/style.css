@@ -1,0 +1,182 @@
+:root {
+    --backScreen: #a9a7a7;
+}
+
+* {
+    scroll-behavior: smooth;
+    /*transition: all 1s;*/
+}
+
+body {
+    /*background: var(--backScreen);*/
+}
+
+/*header*/
+header {
+    background: linear-gradient(to bottom, #ccffff 0%, #ffffcc 100%);
+}
+
+.nav-wrapper {
+    display: grid;
+    /*grid-template-columns: 20% 80%;*/
+    grid-template-columns: 1fr 4fr;
+    align-self: center;
+    justify-self: center;
+}
+
+
+.nav-wrapper-heading {
+    align-self: center;
+}
+
+.navbar-nav .nav-item .nav-link {
+    font-weight: bold;
+    color: white;
+}
+
+.navbar-wrapper {
+    background: #CF5626;
+    border-radius: 5px;
+    /*height: 450px;*/
+}
+
+/*end of header*/
+
+/*welcome section*/
+/*.wellcome-wrapper{*/
+/*    display: grid;*/
+/*    grid-template-columns: repeat(3,1fr);*/
+/*}*/
+
+.newsEvent-wrapper {
+    padding: 10px 20px 10px 20px;
+    border-radius: 5px;
+}
+
+.box-shadow1 {
+    -webkit-box-shadow: 0px 7px 22px -8px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 0px 7px 22px -8px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 7px 22px -8px rgba(0, 0, 0, 0.75);
+}
+
+.newsEvent-head {
+    background: #CF5626;
+    color: white;
+    border-radius: 10px;
+}
+
+/*auto scroll new*/
+.holder {
+    /*background-color:#ccc;*/
+    width: 300px;
+    height: 390px;
+    overflow: hidden;
+    box-shadow: -1px -1px black;
+    padding-left: 3px;
+    /*font-family:Helvetica;*/
+}
+
+.holder .mask {
+    position: relative;
+    left: 0px;
+    top: 10px;
+    width: 300px;
+    height: 370px;
+    overflow: hidden;
+}
+
+.holder ul {
+    /*    list-style:decimal;*/
+    /*    margin:0;*/
+    /*    padding:0;*/
+    position: relative;
+}
+
+.holder ul li:hover {
+    color: #cf5626;
+}
+
+.holder ul li {
+    padding: 10px 0px;
+}
+
+.holder ul li a {
+    /*color:darkred;*/
+    text-decoration: none;
+}
+
+/*end of auto scroll news*/
+
+
+/*card*/
+
+.image-style{
+    border-radius: 100%;
+}
+img.borderedpicture {
+    background-color: #7d7d7d;
+    background-image: url("https://cyndikirkpatrick.com/wp-content/uploads/2016/06/eos_autumn3.png");
+    /*display: block;*/
+    width: 150px;
+    max-width: 100%;
+    height: 150px;
+    padding: 3% 3% 3% 3%;
+    /*margin: 1% 0 1% 0;*/
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+/*end of card*/
+/*welcome section end*/
+
+/*carousel*/
+.carousel-image {
+    height: 400px;
+    border-radius: 50px;
+}
+
+.carousel-border {
+    border-radius: 50px;
+}
+
+/*end of carousel*/
+
+
+/*footer*/
+footer {
+    padding: 0px 10px 10px 10px;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background: linear-gradient(to bottom, #ffffcc 0%, #ccffff 100%);
+}
+
+.social-icon {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+
+.quick-link li {
+    list-style: none;
+    font-size: 13px;
+    text-align: left;
+}
+
+.quick-link li a {
+    color: black;
+    text-decoration: none;
+}
+
+
+/*end of footer*/
+
+
+@media screen and (max-width: 400px) {
+    .nav-wrapper {
+        display: grid;
+        /*grid-template-columns: 20% 80%;*/
+        grid-template-columns: 1fr;
+        align-self: center;
+        justify-self: center;
+    }
+
+}
