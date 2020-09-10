@@ -3,11 +3,11 @@
         <div class="row">
             <div class="col-md-4">
 
-                <img class="" src="images/header-logo.png" width="70px" alt="">
+                <a href="index.php"><img class="" src="images/header-logo.png" width="70px" alt=""></a>
                 <p style="font-size: 13px">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias aliquid eaque enim, error eum
-                    eveniet exercitationem fuga, impedit inventore ipsum molestias mollitia nostrum, pariatur porro
-                    repudiandae sequi soluta vero! Quae. <a href="#">Read More -></a>
+                    Today on June 18, 2020, AUCT is releasing its logo which denotes the strength of the Unaided teachers of
+                    colleges of Punjab. It will always inspire, motivate and boost the morale of the educators who are
+                    determined to fight <a href="logo.php">Read More -></a>
                 </p>
             </div>
             <div class="col-md-5">
@@ -16,22 +16,22 @@
                     <div class="row">
                         <div class="col-6">
                             <ul class="quick-link">
-                                <li><a href="#">About Union</a></li>
-                                <li><a href="#">Constitution</a></li>
-                                <li><a href="#">office Beareres</a></li>
+                                <li><a href="aboutUnion.php">About Union</a></li>
+                                <li><a href="Constitution.php">Constitution</a></li>
+                                <li><a href="officeBeareres.php">office Beareres</a></li>
                                 <li><a href="#">Actvities</a></li>
-                                <li><a href="#">Memorandom</a></li>
+                                <li><a href="Memorandum.php">Memorandom</a></li>
                                 <li><a href="#">Notifiction</a></li>
 
                             </ul>
                         </div>
                         <div class="col-6">
                             <ul class="quick-link">
-                                <li><a href="#">Service Matters</a></li>
-                                <li><a href="#">Judgements</a></li>
-                                <li><a href="#">RTI Act</a></li>
+                                <li><a href="serviceMatters.php">Service Matters</a></li>
+                                <li><a href="archive.php">Archive</a></li>
+                                <li><a href="rti_act.php">RTI Act</a></li>
                                 <li><a href="#">Links</a></li>
-                                <li><a href="#">Contact Us</a></li>
+                                <li><a href="contactUs.php">Contact Us</a></li>
                                 <li><a href="#">Financial Statements</a></li>
                             </ul>
                         </div>
@@ -71,3 +71,19 @@
 <script src="bootstrap-4.5.1-dist/js/popper.min.js"></script>
 <script src="bootstrap-4.5.1-dist/js/bootstrap.js"></script>
 <script src="fontawesome/js/all.js"></script>
+<script src="lightbox/dist/js/lightbox.js"></script>
+
+<script>
+    // $(document).ready(function (){
+    //    $('.nav-link').on('click',function (){
+    //        var name=$(this).parent().attr('class');
+    //        alert(name)
+    //    })
+    // });
+
+    $(".nav-link").on("click", function(){
+        console.log(this);
+        $(".nav-link").find(".active").removeClass("active");
+        $(this).addClass("active");
+    });
+</script>
