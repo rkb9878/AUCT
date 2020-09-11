@@ -106,6 +106,8 @@
                         <div class="holder">
                             <ul id="ticker01">
                                 <li><a href="gallery.php" class="text-capitalize">Unaided Teacher of colleges From Association To Raise Their issues</a></li>
+                                <li><a href="gallery.php" class="text-capitalize">Unaided Teacher of colleges From Association To Raise Their issues</a></li>
+                                <li><a href="gallery.php" class="text-capitalize">Unaided Teacher of colleges From Association To Raise Their issues</a></li>
 <!--                                <li>End up doing is adding some code</li>-->
 <!--                                <li>The code that you want to run</li>-->
 <!--                                <li>Inside of which is the code that you want to run</li>-->
