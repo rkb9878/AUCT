@@ -11,8 +11,8 @@
 <body>
 <?php include "navbar.php"; ?>
 
-<div class="container mt-3">
-    <div class="text-center">
+<div class="container">
+    <div class="text-center" style="padding-top: 40px">
         <h2 class="font-weight-bold">About Logo</h2>
     </div>
 

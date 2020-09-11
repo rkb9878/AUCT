@@ -12,7 +12,7 @@
 <?php include "navbar.php"; ?>
 
 <div class="container">
-    <div class="text-center">
+    <div class="text-center" style="padding-top: 40px">
         <h2 class="font-weight-bold">Become Member</h2>
     </div>
     <div>

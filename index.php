@@ -51,7 +51,7 @@
     <div class="row">
         <div class="col-md-8">
             <div class="text-center">
-                <h2 class="font-weight-bold">Wellcome</h2>
+                <h2 class="font-weight-bold">Welcome To AUCT New Era..</h2>
             </div>
             <br>
             <div class="row">
@@ -67,7 +67,7 @@
                                 It gives me immense pleasure to float AUCT website which is in fact the culmination of a
                                 dream that was born some years ago...a dream to have a name; a palpable identity; a
                                 representation! And this dream was visualised in the eyes of countless unaided college
-                                teachers! <a href=""></a>
+                                teachers! <a href="#" data-toggle="modal" data-target="#PraneetKaur">Read More >></a>
                             </p>
                         </div>
                     </div>
@@ -81,10 +81,12 @@
                             <h5 class="font-weight-bold pt-2">Prof.Gurpinder Singh</h5>
                             <h6 class="font-weight-bold">(Gen.Secretary)</h6>
                             <p>
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab deserunt id illo libero
-                                minus
-                                temporibus veniam? Debitis dignissimos dolore doloribus eligendi eos incidunt nihil nisi
-                                quis veniam voluptas. Accusantium, repellat.
+                                " ਸਲੋਕ ਮਹੱਲਾ ਪਹਿਲਾ"
+                                " ਸੋ ਜੀਵਿਆ ਜਿਸੁ ਮਨਿ ਵਸਿਆ ਸੋਇ।। ਨਾਨਕ ਅਵਰੁ ਨ ਜੀਵੈ ਕੋਇ।।ਜੇ ਜੀਵੈ ਪਤਿ ਲਥੀ ਜਾਇ।। ਸਭੁ ਹਰਾਮੁ
+                                ਜੇਤਾ ਕਿਛੁ ਖਾਇ।।"
+                                ਭਾਵ - ਓਹੀ ਮਨੁੱਖ ਜਿਊਂਦਾ ਹੈ ਜਿਸ ਦੇ ਮਨ ਵਿੱਚ ਸੱਚ ਦਾ ਵਾਸ ਹੋਵੈ, ਮਨੁੱਖੀ ਅਧਿਕਾਰਾਂ ਬਾਰੇ ਚੇਤਨਾ,
+                                ਅਤੇ ਬ੍ਰਹਮ ਗਿਆਨ ਹੋਵੇ, ਬਾਕੀ ਕੋਈ ਵੀ ਜੀਵ ਜਿਊਂਦਾ ਨਹੀਂ ਜੋ ਬਿਨ੍ਹਾਂ ਇੱਜ਼ਤ ਅਤੇ ਬਿਨ੍ਹਾਂ <a
+                                        href="media/ServiceMetters/Social%20Justice%20My%20Message%20On%20AUCT%202020-21.pdf" target="_blank">Read More >></a>
                             </p>
                         </div>
                     </div>
@@ -103,7 +105,8 @@
                     <div>
                         <div class="holder">
                             <ul id="ticker01">
-                                <li>The first thing that most Javascript programmers</li>
+                                <li><a href="gallery.php" class="text-capitalize">Teachers of Unaided colleges form assn
+                                        to raise their issue</a></li>
                                 <li>End up doing is adding some code</li>
                                 <li>The code that you want to run</li>
                                 <li>Inside of which is the code that you want to run</li>
@@ -123,6 +126,65 @@
         </div>
     </div>
 </section>
+
+
+<!-- Modal PraneetKaur-->
+<div id="PraneetKaur" class="modal fade">
+    <div class="modal-dialog">
+
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title">Prof.Praneet Kaur</h4>
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+            </div>
+            <div class="modal-body">
+                <p><img src="images/members/praneetKaur(presedient).jpeg" alt=""
+                        style="width: 200px;float: left;padding-right: 15px">
+                    <br>
+                    It gives me immense pleasure to float AUCT website which is in fact the culmination of a dream that
+                    was born some years ago...a dream to have a name; a palpable identity; a representation! And this
+                    dream was visualised in the eyes of countless unaided college teachers!
+                    <br><br>
+                    Today AUCT is a reality! Registered under Societies Registration Act- the first of its own kind in
+                    Punjab, it has come as a morale booster for all the unaided teachers of this region. It has been
+                    founded with the twin purpose of addressing all the legitimate demands of such teachers as well as
+                    putting an end to their exploitation of any kind. AUCT has a priority agenda to give a clarion call
+                    to the State Government on one hand and to the VCs of Punjab University, Punjabi University and
+                    GNDU, on the other, to ascertain that long pending demands are paid heed to. Prominent amongst these
+                    are-
+                </p>
+                <ol>
+                    <li>Bring unaided college teachers under Social Security Act again</li>
+                    <li>Anomalies regarding the PF and DA should be removed and a uniform pattern adopted</li>
+                    <li>Recommendations of Sixth Pay Commission pertaining to pending promotions and salary upgradation
+                        be implemented at the earliest.
+                    </li>
+                </ol>
+                <p>
+                    The task we have taken upon ourselves is herculean. But our will is indomitable! I exhort each one
+                    of you individually and all of you collectively to make this venture a success by pledging your
+                    sincere ,100% <br>
+                    whole hearted contribution !!
+                </p>
+                <p style="padding-left: 20px">
+                    Nothing splendid has <br>
+                    ever been achieved....<br>
+                    Except by those who dare<br>
+                    to believe....<br>
+                    That something inside<br>
+                    them is superior to their<br>
+                    circumstances!<br>
+                </p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+
+    </div>
+</div>
+<!--end modal PraneetKaur-->
 
 
 <?php include "footer.php"; ?>

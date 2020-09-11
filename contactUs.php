@@ -29,7 +29,7 @@
 </head>
 <body>
 <?php include "navbar.php"; ?>
-<div class="text-center">
+<div class="text-center" style="padding-top: 40px">
     <h2 class="font-weight-bold" style="font-size: 35px">Contact Us</h2>
 </div>
 <div class="container-fluid mb-4">
@@ -102,7 +102,7 @@
                                 <input class="input100" id="number" required type="number" name="number"
                                        placeholder="Mobile Number">
                                 <label class="label-input100" for="number">
-                                    <span class="lnr lnr-envelope"></span>
+                                    <i class="fa fa-phone"></i>
                                 </label>
                             </div>
 
