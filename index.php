@@ -63,7 +63,7 @@
                                  width="" alt="putyourpicturesalttexthere"/>
                             <h5 class="font-weight-bold pt-2">Prof.Praneet Kaur</h5>
                             <h6 class="font-weight-bold">(President)</h6>
-                            <p>
+                            <p style="text-align: justify">
                                 It gives me immense pleasure to float AUCT website which is in fact the culmination of a
                                 dream that was born some years ago...a dream to have a name; a palpable identity; a
                                 representation! And this dream was visualised in the eyes of countless unaided college
@@ -82,10 +82,10 @@
                             <h6 class="font-weight-bold">(Gen.Secretary)</h6>
                             <p class="text-center">
                                 " ਸਲੋਕ ਮਹੱਲਾ ਪਹਿਲਾ" <br>
-                                " ਸੋ ਜੀਵਿਆ ਜਿਸੁ ਮਨਿ ਵਸਿਆ ਸੋਇ।। ਨਾਨਕ ਅਵਰੁ ਨ ਜੀਵੈ ਕੋਇ।। <br>
-                                ਜੇ ਜੀਵੈ ਪਤਿ ਲਥੀ ਜਾਇ।। ਸਭੁ ਹਰਾਮੁ
+                                " ਸੋ ਜੀਵਿਆ ਜਿਸੁ ਮਨਿ ਵਸਿਆ ਸੋਇ।। <br> ਨਾਨਕ ਅਵਰੁ ਨ ਜੀਵੈ ਕੋਇ।। <br>
+                                ਜੇ ਜੀਵੈ ਪਤਿ ਲਥੀ ਜਾਇ।। <br> ਸਭੁ ਹਰਾਮੁ
                                 ਜੇਤਾ ਕਿਛੁ ਖਾਇ।।" <br>
-                                ਭਾਵ - ਓਹੀ ਮਨੁੱਖ ਜਿਊਂਦਾ ਹੈ ਜਿਸ ਦੇ ਮਨ ਵਿੱਚ ਸੱਚ ਦਾ ਵਾਸ ਹੋਵੈ,<a
+                                ਭਾਵ - ਓਹੀ ਮਨੁੱਖ ਜਿਊਂਦਾ ਹੈ ਜਿਸ ਦੇ ਮਨ ਵਿੱਚ ਸੱਚ ਦਾ ਵਾਸ ਹੋਵੈ, <a
                                         href="media/ServiceMetters/Social%20Justice%20My%20Message%20On%20AUCT%202020-21.pdf" target="_blank">Read More >></a>
                             </p>
                         </div>
