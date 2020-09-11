@@ -98,7 +98,7 @@
             <div class="newsEvent-wrapper box-shadow1">
                 <div class="newsEvent-head">
                     <div class="text-center">
-                        <h5 class="font-weight-bold">News & Event</h5>
+                        <h5 class="font-weight-bold">News & Events</h5>
                     </div>
                 </div>
                 <div>
@@ -106,17 +106,17 @@
                         <div class="holder">
                             <ul id="ticker01">
                                 <li><a href="gallery.php" class="text-capitalize">Unaided Teacher of colleges From Association To Raise Their issues</a></li>
-                                <li>End up doing is adding some code</li>
-                                <li>The code that you want to run</li>
-                                <li>Inside of which is the code that you want to run</li>
-                                <li>Right when the page is loaded</li>
-                                <li>Problematically, however, the Javascript code</li>
-                                <li>The first thing that most Javascript programmers</li>
-                                <li>End up doing is adding some code</li>
-                                <li>The code that you want to run</li>
-                                <li>Inside of which is the code that you want to run</li>
-                                <li>Right when the page is loaded</li>
-                                <li>Problematically, however, the Javascript code</li>
+<!--                                <li>End up doing is adding some code</li>-->
+<!--                                <li>The code that you want to run</li>-->
+<!--                                <li>Inside of which is the code that you want to run</li>-->
+<!--                                <li>Right when the page is loaded</li>-->
+<!--                                <li>Problematically, however, the Javascript code</li>-->
+<!--                                <li>The first thing that most Javascript programmers</li>-->
+<!--                                <li>End up doing is adding some code</li>-->
+<!--                                <li>The code that you want to run</li>-->
+<!--                                <li>Inside of which is the code that you want to run</li>-->
+<!--                                <li>Right when the page is loaded</li>-->
+<!--                                <li>Problematically, however, the Javascript code</li>-->
                             </ul>
                         </div>
                     </div>
