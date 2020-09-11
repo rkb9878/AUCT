@@ -17,7 +17,7 @@
     </div>
 
     <div class="">
-        <p>
+        <p style="text-align: justify">
             <img src="images/header-logo.png" alt="" style="width: 200px;float: left;padding-right: 15px">
             <br>
             <span style="padding-left: 5px"><b>'Logo'</b>is the soul of an Institution, an association,
