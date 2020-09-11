@@ -65,7 +65,7 @@ $mail->AltBody = "To view the message, please use an HTML compatible email viewe
 $mail->MsgHTML($msg);
 
 
-$address = 'rkb9878@gmail.com';
+$address = 'auct.teacher@gmail.com';
 $mail->AddAddress($address);
 
 if (!$mail->Send()) {
