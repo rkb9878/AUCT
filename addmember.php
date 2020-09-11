@@ -19,7 +19,7 @@
         <div class="offset-md-3 col-md-6">
             <form action="emailSending/getintouch.php" method="post">
                 <div class="form-group">
-                    <label for="name">Name</label>
+                    <label for="name">Name*</label>
                     <div class="input-group mb-3">
                         <div class="input-group-prepend">
                             <select name="pre" id="pre" class="form-control">
@@ -34,38 +34,33 @@
                     </div>
                 </div>
                 <div class="form-group">
-                    <label for="collegename">College Name</label>
+                    <label for="collegename">College Name*</label>
                     <input type="text" class="form-control" id="collegename" name="collegename"
                            placeholder="College Name" required>
                 </div>
                 <div class="form-group">
-                    <label for="subject">Subject</label>
+                    <label for="subject">Subject*</label>
                     <input type="text" class="form-control" id="subject" name="subject" placeholder="Subject" required>
                 </div>
                 <div class="row">
                     <div class="col-sm-6">
                         <div class="form-group">
-                            <label for="mobile">Mobile</label>
+                            <label for="mobile">Mobile*</label>
                             <input type="number" class="form-control" id="mobile" name="mobile" placeholder="Mobile"
                                    required minlength="10" maxlength="10">
                         </div>
                     </div>
                     <div class="col-sm-6">
                         <div class="form-group">
-                            <label for="dateofjoining">Date of Joining</label>
+                            <label for="dateofjoining">Date of Joining*</label>
                             <input type="date" class="form-control" id="dateofjoining" name="dateofjoining" required>
                         </div>
                     </div>
                 </div>
                 <div class="form-group">
-                    <label for="presentjob">Present Job</label>
-                    <input type="text" class="form-control" id="presentjob" name="presentjob" placeholder="Present Job"
-                           required>
-                </div>
-                <div class="form-group">
-                    <label for="experience">Total Experience</label>
+                    <label for="experience">Total Experience*</label>
                     <input type="number" class="form-control" id="experience" name="experience"
-                           placeholder="Total Experience" required>
+                           placeholder="Total Experience" min="0" required>
                 </div>
                 <div class="form-group text-center">
                     <button class="btn btn-outline-success w-25">Submit</button>

@@ -7,11 +7,11 @@
             <div class="nav-wrapper-heading text-center" style="color: #28156E">
                 <h2 style="font-family: Arial" class="font-weight-bold text-uppercase">Association of Unaided College
                     teachers (auct)</h2>
-                <h3 class="font-weight-bold text-capitalize">
-                    Register under registrar of firms & society Punjab
+                <h3 class="font-weight-bold">
+                    Registered Under Registrar of Firms & Societies Punjab
                 </h3>
                 <h4 class="font-weight-bold">(ACT. XXI OF 1860) No.090 of 2020-2021</h4>
-                <h5 class="font-weight-bold">Area of Operation Punjab & Chandighar</h5>
+                <h5 class="font-weight-bold">Area of Operation Punjab & Chandigarh</h5>
             </div>
         </div>
     </div>
@@ -24,6 +24,7 @@
         text-transform: uppercase;
         padding-bottom: 14px;
         padding-top: 14px;
+        font-size: 15px;
     }
 </style>
 
@@ -42,7 +43,7 @@
                             <a class="nav-link" href="index.php">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="aboutUnion.php">About Union</a>
+                            <a class="nav-link" href="aboutUnion.php">About Association</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="Constitution.php">Constitution</a>
@@ -51,7 +52,7 @@
                             <a class="nav-link" href="logo.php">Logo</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Activities & Achievement</a>
+                            <a class="nav-link" href="#">Activities & Achievements</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="">Financial Statements</a>

@@ -8,7 +8,6 @@ $collegename = $_POST['collegename'];
 $subject = $_POST['subject'];
 $phone = $_POST['mobile'];
 $dateofjoining = $_POST['dateofjoining'];
-$presentjob = $_POST['presentjob'];
 $experience = $_POST['experience'];
 
 //database connection work
@@ -36,7 +35,6 @@ $msg = "<style>a
 <p><strong style='text-align:left;color: black'>Mobile :" . $phone . " </strong></p>
 <p style='text-align:left;color: black'><strong>Subject: </strong>" . $subject . "</p>
 <p style='text-align:left;color: black'><strong>Date of Joining: </strong>" . $dateofjoining . "</p>
-<p style='text-align:left;color: black'><strong>Present Job: </strong>" . $presentjob . "</p>
 <p style='text-align:left;color: black'><strong>Experience: </strong>" . $experience . "</p>
 <h3 style='text-align:left;color: black'>Thanks & Regards</h3>
 <h4 style='text-align:left;color: black'>Website Development Team</h4>

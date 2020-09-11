@@ -38,36 +38,34 @@
             <div class="bg-white rounded box-shadow1 p-4">
                 <p class="font-weight-bold"><b><i class=" fas fa-user text-primary"></i>
                     </b>Prof.Praneet Kaur (President)</p>
-                <p><b><i class=" fa fa-university text-warning" aria-hidden="true"></i>
-                    </b></p>
+                <p><b><i class=" fas fa-at text-warning" aria-hidden="true"></i>
+                    </b>auct.teacher@gmail.com</p>
                 <p><b><i class=" text-success fas fa-phone-square-alt"></i>
                         94648 16707</b></p>
                 <hr>
                 <p class="font-weight-bold"><b><i class=" fas fa-user text-primary"></i>
                     </b>Prof.Prabal Kumar Joshi (Vice President)</p>
-                <p><b><i class=" fa fa-university text-warning" aria-hidden="true"></i>
-                    </b></p>
                 <p><b><i class=" text-success fas fa-phone-square-alt"></i>
                         9814058851</b></p>
                 <hr>
                 <p class="font-weight-bold"><b><i class=" fas fa-user text-primary"></i> </b>Prof.Gurpinder Singh
                     (Gen.Secretary)</p>
-                <p><b><i class=" fa fa-university text-warning" aria-hidden="true"></i> </b></p>
+
                 <p><b><i class=" text-success fas fa-phone-square-alt"></i> 94648 16707</b></p>
                 <hr>
                 <p class="font-weight-bold"><b><i class=" fas fa-user text-primary"></i> </b>Dr. Gopal Krishan
                     (Joint Secretary)</p>
-                <p><b><i class=" fa fa-university text-warning" aria-hidden="true"></i> </b></p>
+
                 <p><b><i class=" text-success fas fa-phone-square-alt"></i> 97799 36126</b></p>
                 <hr>
                 <p class="font-weight-bold"><b><i class=" fas fa-user text-primary"></i> </b>Prof. Parveen Ansari
                     (Finance Secretary)</p>
-                <p><b><i class=" fa fa-university text-warning" aria-hidden="true"></i> </b></p>
+
                 <p><b><i class=" text-success fas fa-phone-square-alt"></i> 94173 00730</b></p>
                 <hr>
                 <p class="font-weight-bold"><b><i class=" fas fa-user text-primary"></i> </b>Prof. Tarun Ghai (Executive
                     Member)</p>
-                <p><b><i class=" fa fa-university text-warning" aria-hidden="true"></i> </b></p>
+
                 <p><b><i class=" text-success fas fa-phone-square-alt"></i>98721 11224 </b></p>
             </div>
         </div>

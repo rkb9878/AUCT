@@ -80,12 +80,12 @@
                                  alt="putyourpicturesalttexthere"/>
                             <h5 class="font-weight-bold pt-2">Prof.Gurpinder Singh</h5>
                             <h6 class="font-weight-bold">(Gen.Secretary)</h6>
-                            <p>
-                                " ਸਲੋਕ ਮਹੱਲਾ ਪਹਿਲਾ"
-                                " ਸੋ ਜੀਵਿਆ ਜਿਸੁ ਮਨਿ ਵਸਿਆ ਸੋਇ।। ਨਾਨਕ ਅਵਰੁ ਨ ਜੀਵੈ ਕੋਇ।।ਜੇ ਜੀਵੈ ਪਤਿ ਲਥੀ ਜਾਇ।। ਸਭੁ ਹਰਾਮੁ
-                                ਜੇਤਾ ਕਿਛੁ ਖਾਇ।।"
-                                ਭਾਵ - ਓਹੀ ਮਨੁੱਖ ਜਿਊਂਦਾ ਹੈ ਜਿਸ ਦੇ ਮਨ ਵਿੱਚ ਸੱਚ ਦਾ ਵਾਸ ਹੋਵੈ, ਮਨੁੱਖੀ ਅਧਿਕਾਰਾਂ ਬਾਰੇ ਚੇਤਨਾ,
-                                ਅਤੇ ਬ੍ਰਹਮ ਗਿਆਨ ਹੋਵੇ, ਬਾਕੀ ਕੋਈ ਵੀ ਜੀਵ ਜਿਊਂਦਾ ਨਹੀਂ ਜੋ ਬਿਨ੍ਹਾਂ ਇੱਜ਼ਤ ਅਤੇ ਬਿਨ੍ਹਾਂ <a
+                            <p class="text-center">
+                                " ਸਲੋਕ ਮਹੱਲਾ ਪਹਿਲਾ" <br>
+                                " ਸੋ ਜੀਵਿਆ ਜਿਸੁ ਮਨਿ ਵਸਿਆ ਸੋਇ।। ਨਾਨਕ ਅਵਰੁ ਨ ਜੀਵੈ ਕੋਇ।। <br>
+                                ਜੇ ਜੀਵੈ ਪਤਿ ਲਥੀ ਜਾਇ।। ਸਭੁ ਹਰਾਮੁ
+                                ਜੇਤਾ ਕਿਛੁ ਖਾਇ।।" <br>
+                                ਭਾਵ - ਓਹੀ ਮਨੁੱਖ ਜਿਊਂਦਾ ਹੈ ਜਿਸ ਦੇ ਮਨ ਵਿੱਚ ਸੱਚ ਦਾ ਵਾਸ ਹੋਵੈ,<a
                                         href="media/ServiceMetters/Social%20Justice%20My%20Message%20On%20AUCT%202020-21.pdf" target="_blank">Read More >></a>
                             </p>
                         </div>
@@ -105,8 +105,7 @@
                     <div>
                         <div class="holder">
                             <ul id="ticker01">
-                                <li><a href="gallery.php" class="text-capitalize">Teachers of Unaided colleges form assn
-                                        to raise their issue</a></li>
+                                <li><a href="gallery.php" class="text-capitalize">Unaided Teacher of colleges From Association To Raise Their issues</a></li>
                                 <li>End up doing is adding some code</li>
                                 <li>The code that you want to run</li>
                                 <li>Inside of which is the code that you want to run</li>
@@ -139,7 +138,7 @@
                 <button type="button" class="close" data-dismiss="modal">&times;</button>
             </div>
             <div class="modal-body">
-                <p><img src="images/members/praneetKaur(presedient).jpeg" alt=""
+                <p style="text-align: justify"><img src="images/members/praneetKaur(presedient).jpeg" alt=""
                         style="width: 200px;float: left;padding-right: 15px">
                     <br>
                     It gives me immense pleasure to float AUCT website which is in fact the culmination of a dream that

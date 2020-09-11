@@ -16,13 +16,12 @@
                     <div class="row">
                         <div class="col-6">
                             <ul class="quick-link">
-                                <li><a href="aboutUnion.php">About Union</a></li>
+                                <li><a href="aboutUnion.php">About Association</a></li>
                                 <li><a href="Constitution.php">Constitution</a></li>
-                                <li><a href="officeBeareres.php">office Beareres</a></li>
+                                <li><a href="officeBeareres.php">office Bearer</a></li>
                                 <li><a href="#">Actvities</a></li>
-                                <li><a href="Memorandum.php">Memorandom</a></li>
+                                <li><a href="Memorandum.php">Memorandum</a></li>
                                 <li><a href="#">Notifiction</a></li>
-
                             </ul>
                         </div>
                         <div class="col-6">

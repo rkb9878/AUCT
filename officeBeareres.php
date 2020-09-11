@@ -14,7 +14,7 @@
 <div class="mt-3 container">
     <div class="text-center" style="padding-top: 40px">
         <h2>
-            Office Beareres
+            Office Bearer
         </h2>
     </div>
     <div class="table-responsive">
@@ -55,6 +55,14 @@
                 <td>94648 16707</td>
             </tr>
             <tr>
+                <td>5</td>
+                <td><img src="images/members/parweenAnshari.jpeg" width="80px" alt=""></td>
+                <td>Prof. Parveen Ansari</td>
+                <td>Asst. Professor</td>
+                <td>Finance Secretary</td>
+                <td>94173 00730</td>
+            </tr>
+            <tr>
                 <td>6</td>
                 <td><img src="images/members/dr%20gopalkrishan.jpeg" width="80px" alt=""></td>
                 <td>Dr. Gopal Krishan</td>
@@ -74,7 +82,7 @@
                 <td>8</td>
                 <td><img src="images/members/photo_2020-09-02_07-58-49.jpg" width="80px" alt=""></td>
                 <td>Prof.Jaspal Singh</td>
-                <td>Professor</td>
+                <td>Asst. Professor</td>
                 <td>Executive  Member</td>
                 <td>98780 68015</td>
             </tr>
@@ -117,14 +125,6 @@
                 <td>Asst. Professor</td>
                 <td>Executive  Member</td>
                 <td>98721 11224</td>
-            </tr>
-            <tr>
-                <td>13</td>
-                <td><img src="images/members/parweenAnshari.jpeg" width="80px" alt=""></td>
-                <td>Prof. Parveen Ansari</td>
-                <td>Asst. Professor</td>
-                <td>Finace Secretary</td>
-                <td>94173 00730</td>
             </tr>
             </tbody>
         </table>

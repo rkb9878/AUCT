@@ -16,9 +16,7 @@
 
 <div class="container mt-4 mb-5">
     <div class="card-wrapper">
-        <div class="box-shadow1">
-            <a  href="media/gallery/1st.jpeg" data-lightbox="image-1"><img src="media/gallery/1st.jpeg" class="gallery-image"  alt=""></a>
-        </div>
+
         <div class="box-shadow1">
             <a href="media/gallery/2nd.jpeg" data-lightbox="image-1"><img src="media/gallery/2nd.jpeg" class="gallery-image" alt=""></a>
         </div>
