@@ -21,7 +21,7 @@
         <h5>H. NO. 10, VILLA APARTMENTS, BALOKE ROAD, HAIBOWAL KALAN, LUDHIANA-141001 (PB.)</h5>
     </div>
     <div class="mt-4">
-        <h6 class="font-weight-bold">Copy of Rules and Regulations: -</h6>
+<!--        <h6 class="font-weight-bold">Copy of Rules and Regulations: -</h6>-->
         <ul class="changelistnumer">
             <li><b>MEMBERSHIP:</b> Membership is open for all Unaided teachers of affiliated colleges of Punjab
                 University,

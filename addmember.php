@@ -37,7 +37,7 @@
                     <div class="col-sm-6">
                         <div class="form-group">
                             <label for="designation">Designation*</label>
-                            <input type="text" class="form-control" id="designation" name="designation" placeholder="professor, Teacher, Asst. professor" required>
+                            <input type="text" class="form-control" id="designation" name="designation" placeholder="Professor, Asst. professor....etc" required>
                         </div>
                     </div>
                     <div class="col-sm-6">

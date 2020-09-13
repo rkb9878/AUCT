@@ -18,7 +18,7 @@
                             <ul class="quick-link">
                                 <li><a href="aboutUnion.php">About Association</a></li>
                                 <li><a href="Constitution.php">Constitution</a></li>
-                                <li><a href="officeBeareres.php">Office Bearer</a></li>
+                                <li><a href="officeBeareres.php">Office Bearers</a></li>
                                 <li><a href="#">Actvities</a></li>
                                 <li><a href="Memorandum.php">Memorandum</a></li>
                                 <li><a href="#">Notifiction</a></li>

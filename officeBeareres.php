@@ -14,7 +14,7 @@
 <div class="mt-3 container">
     <div class="text-center" style="padding-top: 40px">
         <h2>
-            Office Bearer
+            Office Bearers
         </h2>
     </div>
     <div class="table-responsive">

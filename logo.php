@@ -20,7 +20,7 @@
         <p style="text-align: justify">
             <img src="images/header-logo.png" alt="" style="width: 200px;float: left;padding-right: 15px">
             <br>
-            <span style="padding-left: 5px"><b>'Logo'</b>is the soul of an Institution, an association,
+            <span style="padding-left: 5px"><b>'Logo'</b> is the soul of an Institution, an association,
             an Entrepreneurial enterprise, an organisation or any such like assemblage. <br><br>
 
             Today on June 18, 2020, AUCT is releasing its logo which denotes the strength of the Unaided teachers of
