@@ -140,7 +140,7 @@
                 <button type="button" class="close" data-dismiss="modal">&times;</button>
             </div>
             <div class="modal-body">
-                <p style="text-align: justify"><img src="images/members/praneetKaur(presedient).jpeg" alt=""
+                <p style="text-align: justify"><img src="images/members/p2.jpeg" alt=""
                         style="width: 200px;float: left;padding-right: 15px">
                     <br>
                     It gives me immense pleasure to float AUCT website which is in fact the culmination of a dream that

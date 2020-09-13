@@ -33,15 +33,26 @@
                                aria-label="Text input with dropdown button">
                     </div>
                 </div>
+                <div class="row">
+                    <div class="col-sm-6">
+                        <div class="form-group">
+                            <label for="designation">Designation*</label>
+                            <input type="text" class="form-control" id="designation" name="designation" placeholder="" required>
+                        </div>
+                    </div>
+                    <div class="col-sm-6">
+                        <div class="form-group">
+                            <label for="subject">Subject*</label>
+                            <input type="text" class="form-control" id="subject" name="subject" placeholder="Subject" required>
+                        </div>
+                    </div>
+                </div>
                 <div class="form-group">
                     <label for="collegename">College Name*</label>
                     <input type="text" class="form-control" id="collegename" name="collegename"
                            placeholder="College Name" required>
                 </div>
-                <div class="form-group">
-                    <label for="subject">Subject*</label>
-                    <input type="text" class="form-control" id="subject" name="subject" placeholder="Subject" required>
-                </div>
+
                 <div class="row">
                     <div class="col-sm-6">
                         <div class="form-group">

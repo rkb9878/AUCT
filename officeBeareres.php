@@ -32,7 +32,7 @@
             <tbody class="text-center">
             <tr>
                 <td>1</td>
-                <td><img src="images/members/praneetKaur(presedient).jpeg" width="80px" alt=""></td>
+                <td><img src="images/members/p2.jpeg" width="80px" alt=""></td>
                 <td>Prof. Praneet Kaur</td>
                 <td>Asst. Professor</td>
                 <td>President</td>
@@ -55,7 +55,7 @@
                 <td>94648 16707</td>
             </tr>
             <tr>
-                <td>5</td>
+                <td>4</td>
                 <td><img src="images/members/parweenAnshari.jpeg" width="80px" alt=""></td>
                 <td>Prof. Parveen Ansari</td>
                 <td>Asst. Professor</td>
@@ -63,7 +63,7 @@
                 <td>94173 00730</td>
             </tr>
             <tr>
-                <td>6</td>
+                <td>5</td>
                 <td><img src="images/members/dr%20gopalkrishan.jpeg" width="80px" alt=""></td>
                 <td>Dr. Gopal Krishan</td>
                 <td>Asst. Professor</td>
@@ -71,7 +71,7 @@
                 <td>97799 36126</td>
             </tr>
             <tr>
-                <td>7</td>
+                <td>6</td>
                 <td><img src="images/members/gurpreetsingh.jpeg" width="80px" alt=""></td>
                 <td>Prof.Gurpreet Singh</td>
                 <td>Asst. Professor</td>
@@ -79,7 +79,7 @@
                 <td>94632 83335</td>
             </tr>
             <tr>
-                <td>8</td>
+                <td>7</td>
                 <td><img src="images/members/photo_2020-09-02_07-58-49.jpg" width="80px" alt=""></td>
                 <td>Prof.Jaspal Singh</td>
                 <td>Asst. Professor</td>
@@ -87,7 +87,7 @@
                 <td>98780 68015</td>
             </tr>
             <tr>
-                <td>9</td>
+                <td>8</td>
                 <td><img src="images/members/harjeetsingh.jpeg" width="80px" alt=""></td>
                 <td>Prof. Harjeet Singh</td>
                 <td>Asst. Professor</td>
@@ -95,7 +95,7 @@
                 <td>98766 71690</td>
             </tr>
             <tr>
-                <td>10</td>
+                <td>9</td>
                 <td><img src="images/members/rajiv%20kalara.jpeg" width="80px" alt=""></td>
                 <td>Prof.Rajeev Kalra</td>
                 <td>Asst. Professor</td>
@@ -103,7 +103,7 @@
                 <td>98882 35454</td>
             </tr>
             <tr>
-                <td>11</td>
+                <td>10</td>
                 <td><img src="images/members/jagdeshkumar.jpeg" width="80px" alt=""></td>
                 <td>Prof.Jagdish Kumar</td>
                 <td>Asst. Professor</td>
@@ -111,7 +111,7 @@
                 <td>94175 06071</td>
             </tr>
             <tr>
-                <td>12</td>
+                <td>11</td>
                 <td><img src="images/members/preetkamal.jpeg" width="80px" alt=""></td>
                 <td>Prof.Preet Kamal</td>
                 <td>Asst. Professor</td>
@@ -119,7 +119,7 @@
                 <td>98763 63374</td>
             </tr>
             <tr>
-                <td>13</td>
+                <td>12</td>
                 <td><img src="images/members/tarunghai.png" width="80px" alt=""></td>
                 <td>Prof. Tarun Ghai</td>
                 <td>Asst. Professor</td>
