@@ -3,9 +3,10 @@
 require_once('class.phpmailer.php');
 
 
-$name =$_POST['pre']." ".$_POST['name'];
+$name = $_POST['pre'] . " " . $_POST['name'];
 $collegename = $_POST['collegename'];
 $subject = $_POST['subject'];
+$designation = $_POST['designation'];
 $phone = $_POST['mobile'];
 $dateofjoining = $_POST['dateofjoining'];
 $experience = $_POST['experience'];
@@ -31,6 +32,7 @@ $msg = "<style>a
    New Member Form <small style='color: white;text-decoration:none;'>http://auct.in/</small></h2><h3 style='text-align:left;color: black'>Dear Team Auct.in</h3>
    <p style='text-align:left;color: black'>Congratulations you have received a new Member from your website <span style='color: black;text-decoration:none;'>http://auct.in/</span></p>
 <p ><strong style='text-align:left;color: black'>Name : " . $name . "</strong></p>
+<p ><strong style='text-align:left;color: black'>Designation : " . $designation . "</strong></p>
 <p><strong style='text-align:left;color: black'>College Name : " . $collegename . "</strong></p>
 <p><strong style='text-align:left;color: black'>Mobile :" . $phone . " </strong></p>
 <p style='text-align:left;color: black'><strong>Subject: </strong>" . $subject . "</p>
