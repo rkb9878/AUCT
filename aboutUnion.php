@@ -37,21 +37,7 @@
             <h5>: H. NO. 10 VILLA APARTMENTS, BALOKE ROAD HAIBOWAL KALAN, LUDHIANA-141001 (PB.)</h5>
         </div>
     </div>
-    <div class="row mt-2">
-        <div class="col-sm-5">
-            <h5>2.
-                <span class="underlinetext">
-                    -A AREA OF OPERATION
-                </span></h5>
-        </div>
-        <div class="col-sm-7">
-            <h5>:IN THE STATE OF PUNJAB AND UNION TERRITORY OF CHANDIGHAR</h5>
-        </div>
-    </div>
-    <div class="mt-2">
-        <h5>3. <span class="underlinetext">AIMS AND OBJECTS OF THE SOCIETY</span></h5>
-    </div>
-    <div>
+    <div style="margin-top: 15px">
         <ul class="memorandum-ul">
             <li>The society is established for the Social, Moral and intellectual upliftment of the general public;</li>
             <li>To provide the better management to the ASSOCIATION OF UNAIDED COLLEGE tEACHERS situated at H.NO. 10,

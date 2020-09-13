@@ -24,9 +24,9 @@ $msg = "<style>a
     margin: 1px 0px !important;
     padding:0px !important;
     }</style>
-    <h2 style='text-align:center;background-color: #ff914d; color: white;padding: 10px 0px;'>
+    <h2 style='text-align:center;background-color: #A52921; color: white;padding: 10px 0px;'>
    New Member Form <small style='color: white;text-decoration:none;'>http://auct.in/</small></h2><h3 style='text-align:left;color: black'>Dear Team Auct.in</h3>
-   <p style='text-align:left;color: black'>Congratulations you have received a new Member from your website <span style='color: black;text-decoration:none;'>http://auct.in/</span></p>
+   <p style='text-align:left;color: black'>you have received a Contact infomation from get in touch: <span style='color: black;text-decoration:none;'>http://auct.in/</span></p>
 <p ><strong style='text-align:left;color: black'>Name : " . $name . "</strong></p>
 <p><strong style='text-align:left;color: black'>Email :" . $email . " </strong></p>
 <p><strong style='text-align:left;color: black'>Mobile :" . $phone . " </strong></p>
