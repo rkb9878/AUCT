@@ -30,10 +30,10 @@
     <div style="margin-top: 30px">
         <ul class="memorandum-ul">
             <li>The society is established for the Social, Moral and intellectual upliftment of the general public;</li>
-            <li>To provide the better management to the ASSOCIATION OF UNAIDED COLLEGE tEACHERS situated at H.NO. 10,
+            <li>To provide the better management to the ASSOCIATION OF UNAIDED COLLEGE TEACHERS situated at H.NO. 10,
                 VILLA APARTMENTS, BALOKE ROAD, HAIBOWAL KALAN, LUDHIANA-141001(PB);
             </li>
-            <li>To established the maintain dignity of profession by ful-filling our duties towards society and also to
+            <li>To established the maintain dignity of profession by fulfilling our duties towards society and also to
                 safeguard the rights of our members in the society;
             </li>
             <li>To give grants, stipends, freeships, books and cloths to the needy and deserving students for the

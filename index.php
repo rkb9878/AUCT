@@ -156,7 +156,7 @@
                     are-
                 </p>
                 <ol>
-                    <li>Bring unaided college teachers under Social Security Act again</li>
+                    <li>Bring unaided college teachers under Service Security Act again</li>
                     <li>Anomalies regarding the PF and DA should be removed and a uniform pattern adopted</li>
                     <li>Recommendations of Sixth Pay Commission pertaining to pending promotions and salary upgradation
                         be implemented at the earliest.
