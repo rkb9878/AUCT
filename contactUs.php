@@ -63,8 +63,7 @@
 
                 <p><b><i class=" text-success fas fa-phone-square-alt"></i> 94173 00730</b></p>
                 <hr>
-                <p class="font-weight-bold"><b><i class=" fas fa-user text-primary"></i> </b>Prof. Tarun Ghai (Executive
-                    Member)</p>
+                <p class="font-weight-bold"><b><i class=" fas fa-user text-primary"></i> </b>Prof. Tarun Ghai (Member of Governing Body)</p>
 
                 <p><b><i class=" text-success fas fa-phone-square-alt"></i>98721 11224 </b></p>
             </div>
