@@ -5,7 +5,7 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>401</title>
+    <title>Page not Found</title>
     <style>
 
         body
@@ -61,7 +61,7 @@
     </style>
 </head>
 <body>
-<a href="https://www.youtube.com/watch?v=_XiOcsj3oNI&t=50s" target="_blank">
+
     <div class="container">
         <div class="row">
             <div class="col-sm-12 col-md-12 mt-5 mb-5">
@@ -694,7 +694,7 @@
             </div>
         </div>
     </div>
-</a>
+
 
 <script>
     anime({
