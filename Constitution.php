@@ -53,7 +53,7 @@
                     </li>
                     <li>
                         The members to the Governing Body shall be elected from amongst the members by majority of
-                        votes by the General Body once in a year.
+                        votes by the General Body twice in a year.
                     </li>
                     <li>
                         The names, addresses and occupation of the members so elected to the Governing Body shall be
