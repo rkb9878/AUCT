@@ -40,7 +40,7 @@
             </tr>
             <tr>
                 <td>2</td>
-                <td><img src="images/members/prabal%20joshi.jpeg" width="80px" alt=""></td>
+                <td><img src="images/members/prabal%20joshi.png" width="80px" alt=""></td>
                 <td>Prof.Prabal Joshi</td>
                 <td>Asst. Professor</td>
                 <td>Vice President</td>
@@ -88,7 +88,7 @@
             </tr>
             <tr>
                 <td>8</td>
-                <td><img src="images/members/harjeetsingh.jpeg" width="80px" alt=""></td>
+                <td><img src="images/members/WhatsApp%20Image%202020-09-14%20at%209.01.59%20PM.jpeg" width="80px" alt=""></td>
                 <td>Prof. Harjeet Singh</td>
                 <td>Asst. Professor</td>
                 <td>Member of Governing Body</td>
@@ -96,7 +96,7 @@
             </tr>
             <tr>
                 <td>9</td>
-                <td><img src="images/members/rajiv%20kalara.jpeg" width="80px" alt=""></td>
+                <td><img src="images/members/rajiv%20kalara.png" width="80px" alt=""></td>
                 <td>Prof.Rajeev Kalra</td>
                 <td>Asst. Professor</td>
                 <td>Member of Governing Body</td>
