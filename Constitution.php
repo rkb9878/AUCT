@@ -87,9 +87,9 @@
                         a year and shall transact,
                         interalia the following business: -
                         <ul class="changelistnumer4">
-                            <li>The President’s report on the functioning and achievement of the society;</li>
+                            <li>The President’s report on the functioning and achievement of the society.</li>
 <!--                            <li>Election to the Governing Body;</li>-->
-                            <li>Passing the Annual Budget;</li>
+                            <li>Passing the Annual Budget.</li>
                             <li>All other matters of general interest.</li>
                         </ul>
                     </li>
