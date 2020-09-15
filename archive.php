@@ -26,7 +26,7 @@
         <li><a target="_blank" href="media/archive/Earned%20leave.pdf">Earned Leave</a></li>
         <li><a target="_blank" href="media/archive/collegeStay.pdf">College Stay</a></li>
         <li><a target="_blank" href="media/archive/child.pdf">Child Care Leave</a></li>
-        <li><a target="_blank" href="media/archive/3.pdf">University Theses</a></li>
+        <li><a target="_blank" href="media/archive/3.pdf">University Fees</a></li>
     </ol>
 </div>
 <?php include "footer.php"; ?>
