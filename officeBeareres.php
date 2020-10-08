@@ -48,11 +48,11 @@
             </tr>
             <tr>
                 <td>3</td>
-                <td><img src="images/members/gurpinderSingh(general%20securitry).jpeg" width="80px" alt=""></td>
-                <td>Prof.Gurpinder Singh</td>
+                <td><img src="images/members/WhatsApp%20Image%202020-09-14%20at%209.01.59%20PM.jpeg" width="80px" alt=""></td>
+                <td>Prof. Harjeet Singh</td>
                 <td>Asst. Professor</td>
                 <td>Gen.Secretary</td>
-                <td>94648 16707</td>
+                <td>98766 71690</td>
             </tr>
             <tr>
                 <td>4</td>
@@ -88,11 +88,11 @@
             </tr>
             <tr>
                 <td>8</td>
-                <td><img src="images/members/WhatsApp%20Image%202020-09-14%20at%209.01.59%20PM.jpeg" width="80px" alt=""></td>
-                <td>Prof. Harjeet Singh</td>
+                <td><img src="images/members/gurpinderSingh(general%20securitry).jpeg" width="80px" alt=""></td>
+                <td>Prof.Gurpinder Singh</td>
                 <td>Asst. Professor</td>
                 <td>Member of Governing Body</td>
-                <td>98766 71690</td>
+                <td>94648 16707</td>
             </tr>
             <tr>
                 <td>9</td>
