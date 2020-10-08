@@ -79,7 +79,7 @@
                                  src="images/members/gurpinderSingh(general%20securitry).jpeg" width=""
                                  alt="putyourpicturesalttexthere"/>
                             <h5 class="font-weight-bold pt-2">Prof.Gurpinder Singh</h5>
-                            <h6 class="font-weight-bold">(Gen.Secretary)</h6>
+                            <h6 class="font-weight-bold">(Member of Governing Body)</h6>
                             <p class="text-center">
                                 " ਸਲੋਕ ਮਹੱਲਾ ਪਹਿਲਾ" <br>
                                 " ਸੋ ਜੀਵਿਆ ਜਿਸੁ ਮਨਿ ਵਸਿਆ ਸੋਇ।। <br> ਨਾਨਕ ਅਵਰੁ ਨ ਜੀਵੈ ਕੋਇ।। <br>
