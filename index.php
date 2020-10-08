@@ -23,13 +23,13 @@
             </ol>
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img class="d-block w-100 carousel-image" src="images/carousel/1.jpeg" alt="First slide">
+                    <img class="d-block w-100 carousel-image" src="images/carousel/2.jpeg" alt="First slide">
                 </div>
                 <div class="carousel-item">
                     <img class="d-block w-100 carousel-image" src="images/carousel/2.jpeg" alt="Second slide">
                 </div>
                 <div class="carousel-item">
-                    <img class="d-block w-100 carousel-image" src="images/carousel/1.jpeg" alt="Third slide">
+                    <img class="d-block w-100 carousel-image" src="images/carousel/2.jpeg" alt="Third slide">
                 </div>
                 <div class="carousel-item">
                     <img class="d-block w-100 carousel-image" src="images/carousel/2.jpeg" alt="Second slide">
@@ -76,10 +76,10 @@
                     <div class="card box-shadow1 p-3">
                         <div class="text-center">
                             <img class="borderedpicture image-style"
-                                 src="images/members/gurpinderSingh(general%20securitry).jpeg" width=""
+                                 src="images/members/WhatsApp%20Image%202020-09-14%20at%209.01.59%20PM.jpeg" width=""
                                  alt="putyourpicturesalttexthere"/>
-                            <h5 class="font-weight-bold pt-2">Prof.Gurpinder Singh</h5>
-                            <h6 class="font-weight-bold">(Member of Governing Body)</h6>
+                            <h5 class="font-weight-bold pt-2">Prof. Harjeet Singh</h5>
+                            <h6 class="font-weight-bold">(Gen.Secretary)</h6>
                             <p class="text-center">
                                 " ਸਲੋਕ ਮਹੱਲਾ ਪਹਿਲਾ" <br>
                                 " ਸੋ ਜੀਵਿਆ ਜਿਸੁ ਮਨਿ ਵਸਿਆ ਸੋਇ।। <br> ਨਾਨਕ ਅਵਰੁ ਨ ਜੀਵੈ ਕੋਇ।। <br>

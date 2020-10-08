@@ -48,10 +48,10 @@
                 <p><b><i class=" text-success fas fa-phone-square-alt"></i>
                         9814058851</b></p>
                 <hr>
-                <p class="font-weight-bold"><b><i class=" fas fa-user text-primary"></i> </b>Prof.Gurpinder Singh
+                <p class="font-weight-bold"><b><i class=" fas fa-user text-primary"></i> </b>Prof. Harjeet Singh
                     (Gen.Secretary)</p>
 
-                <p><b><i class=" text-success fas fa-phone-square-alt"></i> 94648 16707</b></p>
+                <p><b><i class=" text-success fas fa-phone-square-alt"></i> 98766 71690</b></p>
                 <hr>
                 <p class="font-weight-bold"><b><i class=" fas fa-user text-primary"></i> </b>Dr. Gopal Krishan
                     (Joint Secretary)</p>
