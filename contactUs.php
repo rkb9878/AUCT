@@ -41,7 +41,7 @@
                 <p><b><i class=" fas fa-at text-warning" aria-hidden="true"></i>
                     </b>auct.teacher@gmail.com</p>
                 <p><b><i class=" text-success fas fa-phone-square-alt"></i>
-                        94648 16707</b></p>
+                93168 19379</b></p>
                 <hr>
                 <p class="font-weight-bold"><b><i class=" fas fa-user text-primary"></i>
                     </b>Prof.Prabal Kumar Joshi (Vice President)</p>
