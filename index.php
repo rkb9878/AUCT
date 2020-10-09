@@ -86,7 +86,7 @@
                                 ਜੇ ਜੀਵੈ ਪਤਿ ਲਥੀ ਜਾਇ।। <br> ਸਭੁ ਹਰਾਮੁ
                                 ਜੇਤਾ ਕਿਛੁ ਖਾਇ।।" <br>
                                 ਭਾਵ - ਓਹੀ ਮਨੁੱਖ ਜਿਊਂਦਾ ਹੈ ਜਿਸ ਦੇ ਮਨ ਵਿੱਚ ਸੱਚ ਦਾ ਵਾਸ ਹੋਵੈ, <a
-                                        href="media/ServiceMetters/Social%20Justice%20My%20Message%20On%20AUCT%202020-21.pdf" target="_blank">Read More >></a>
+                                        href="media/ServiceMetters/Social%20Justice%20My%20Message%20On%20AUCT%202020-211.pdf" target="_blank">Read More >></a>
                             </p>
                         </div>
                     </div>
