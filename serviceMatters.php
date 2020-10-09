@@ -32,6 +32,23 @@
                 <th>09-09-2020</th>
                 <td><a target="_blank" href="media/ServiceMetters/SM/CSR3.doc">Punjab CSR Vol-3</a></td>
             </tr>
+
+            <tr class="bg-danger">
+                <th colspan="2" style="font-size: 15px;color: white">service security act 1974</th>
+            </tr>
+
+            <tr>
+                <th>08-10-2020</th>
+                <td><a target="_blank" href="media/act1974.docx">service security act 1974</a></td>
+            </tr>
+            <tr class="bg-danger">
+                <th colspan="2" style="font-size: 15px;color: white">Copy of Service Security Act after amendment in Dec.2007</th>
+            </tr>
+            <tr>
+                <th>08-10-2020</th>
+                <td><a target="_blank" href="media/ServiceMetters/act1971.pdf">Copy of Service Security Act after amendment in Dec.2007</a></td>
+            </tr>
+
             <tr class="bg-danger">
                 <th colspan="2" style="font-size: 15px;color: white">University Calender Volume I</th>
             </tr>
