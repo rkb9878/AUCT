@@ -47,6 +47,30 @@
         <div class="box-shadow1">
             <a href="media/gallery/12.jpeg" data-lightbox="image-1"><img src="media/gallery/12.jpeg" class="gallery-image" alt=""></a>
         </div>
+        <div class="box-shadow1">
+            <a href="media/gallery/13.jpeg" data-lightbox="image-1"><img src="media/gallery/13.jpeg" class="gallery-image" alt=""></a>
+        </div>
+        <div class="box-shadow1">
+            <a href="media/gallery/14.jpeg" data-lightbox="image-1"><img src="media/gallery/14.jpeg" class="gallery-image" alt=""></a>
+        </div>
+        <div class="box-shadow1">
+            <a href="media/gallery/15.jpeg" data-lightbox="image-1"><img src="media/gallery/15.jpeg" class="gallery-image" alt=""></a>
+        </div>
+        <div class="box-shadow1">
+            <a href="media/gallery/16.jpeg" data-lightbox="image-1"><img src="media/gallery/16.jpeg" class="gallery-image" alt=""></a>
+        </div>
+        <div class="box-shadow1">
+            <a href="media/gallery/17.jpeg" data-lightbox="image-1"><img src="media/gallery/17.jpeg" class="gallery-image" alt=""></a>
+        </div>
+        <div class="box-shadow1">
+            <a href="media/gallery/18.jpeg" data-lightbox="image-1"><img src="media/gallery/18.jpeg" class="gallery-image" alt=""></a>
+        </div>
+        <div class="box-shadow1">
+            <a href="media/gallery/19.jpeg" data-lightbox="image-1"><img src="media/gallery/19.jpeg" class="gallery-image" alt=""></a>
+        </div>
+        <div class="box-shadow1">
+            <a href="media/gallery/20.jpeg" data-lightbox="image-1"><img src="media/gallery/20.jpeg" class="gallery-image" alt=""></a>
+        </div>
     </div>
 </div>
 

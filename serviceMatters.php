@@ -34,7 +34,7 @@
             </tr>
 
             <tr class="bg-danger">
-                <th colspan="2" style="font-size: 15px;color: white">service security act 1974</th>
+                <th colspan="2" style="font-size: 15px;color: white">Service security act 1974</th>
             </tr>
 
             <tr>
