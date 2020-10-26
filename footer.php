@@ -61,7 +61,7 @@
         </div>
     </div>
     <div class="text-center" style="border-top: 1px solid gray ;">
-        <p style="color: black;font-size: 14px">Copyright © 2020 AUCT | This template is made by <a target="_blank" href="http://rkbharti.ml/">Rkbharti</a></p>
+        <p style="color: black;font-size: 14px">Copyright © 2020 AUCT | This template is made by <a target="_blank" href="http://rkbharti.ml/">RkBharti</a></p>
     </div>
 </footer>
 
