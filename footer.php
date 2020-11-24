@@ -21,7 +21,7 @@
                                 <li><a href="officeBeareres.php">Office Bearers</a></li>
                                 <li><a href="#">Actvities</a></li>
                                 <li><a href="Memorandum.php">Memorandum</a></li>
-                                <li><a href="#">Notifiction</a></li>
+                                <li><a href="legal.php">Legal</a></li>
                             </ul>
                         </div>
                         <div class="col-6">
