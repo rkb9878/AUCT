@@ -13,6 +13,10 @@
 
 <section class="mt-4 mb-4">
     <div class="container">
+        <div class="text-center">
+            <h2>Legal Cell of AUCT</h2>
+            <br>
+        </div>
         <div class="row">
             <div class="col-md-3 col-sm-4 col-12">
                 <div class="card">
@@ -44,7 +48,6 @@
                     <div class="card-body">
                         Name : Prof. Hemant <br>
                         <span> <i class="fa fa-phone-alt"></i>: 97796-65573</span>
-
                     </div>
                 </div>
             </div>
