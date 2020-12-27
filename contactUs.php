@@ -66,6 +66,12 @@
                 <p class="font-weight-bold"><b><i class=" fas fa-user text-primary"></i> </b>Prof. Tarun Ghai (Member of Governing Body)</p>
 
                 <p><b><i class=" text-success fas fa-phone-square-alt"></i>98721 11224 </b></p>
+                <hr>
+                <p class="font-weight-bold"><b><i class=" fas fa-user text-primary"></i> </b>Prof. Gaurav Vij (DAV College Abhoar)</p>
+                <hr>
+                <p class="font-weight-bold"><b><i class=" fas fa-user text-primary"></i> </b>Prof. Dr. Parminder Kaur ( BD Arya College Jalandhar)</p>
+                <hr>
+                <p class="font-weight-bold"><b><i class=" fas fa-user text-primary"></i> </b> Prof. Jagpinder Singh ( SGTP Khalsa College Anandpur Sahib).</p>
             </div>
         </div>
 
