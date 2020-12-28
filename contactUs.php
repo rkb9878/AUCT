@@ -26,6 +26,8 @@
     <link rel="stylesheet" type="text/css" href="contactus/css/util.css">
     <link rel="stylesheet" type="text/css" href="contactus/css/main.css">
     <?php include "headerfile.php"; ?>
+    <script src="https://www.google.com/recaptcha/api.js?render=6Lcr6hcaAAAAAPO5uUzPWwD7KBO3JfqfdnzWqhVh"></script>
+
 </head>
 <body>
 <?php include "navbar.php"; ?>
@@ -164,6 +166,16 @@
 
     gtag('config', 'UA-23581568-13');
 </script>
-
+<script>
+    function onClick(e) {
+        e.preventDefault();
+        grecaptcha.ready(function() {
+            grecaptcha.execute('6Lcr6hcaAAAAAPO5uUzPWwD7KBO3JfqfdnzWqhVh', {action: 'submit'}).then(function(token) {
+                // Add your logic to submit to your backend server here.
+                console.log(token);
+            });
+        });
+    }
+</script>
 </body>
 </html>
