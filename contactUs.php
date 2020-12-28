@@ -75,28 +75,29 @@
                     <div class="card-header bg-primary">
                         <b>Convener ( University wise)</b>
                     </div>
+
                     <div class="card-body">
-                        <ol>
+                        <ol style="padding: 10px">
                             <li>
-                                1. <b>Punjab University Chandigarh</b>
+                                <b>Punjab University Chandigarh</b>
                                 <br>
-                                &nbsp;&nbsp;&nbsp;&nbsp;Prof. Gaurav Vij <br>
-                                &nbsp;&nbsp;&nbsp;&nbsp;(DAV College Abhoar)
-                                <br>
+                                Prof. Gaurav Vij <br>
+                                (DAV College Abhoar)
+                                <hr>
                             </li>
                             <li>
-                                2. <b>Guru Nanak Dev University, Amritsar</b>
+                                <b>Guru Nanak Dev University, Amritsar</b>
                                 <br>
-                                &nbsp;&nbsp;&nbsp;&nbsp;Prof. Dr. Parminder Kaur <br>
-                                &nbsp;&nbsp;&nbsp;&nbsp;( BD Arya College Jalandhar)
-                                <br>
+                                Prof. Dr. Parminder Kaur <br>
+                                ( BD Arya College Jalandhar)
+                                <hr>
                             </li>
                             <li>
-                                3. <b>Punjabi University, Patiala</b>
+                                <b>Punjabi University, Patiala</b>
                                 <br>
-                                &nbsp;&nbsp;&nbsp;&nbsp;Prof. Jagpinder Singh<br>
-                                &nbsp;&nbsp;&nbsp;&nbsp;( SGTP Khalsa College Anandpur Sahib)
-                                <br>
+                                Prof. Jagpinder Singh<br>
+                                ( SGTP Khalsa College Anandpur Sahib)
+                                <hr>
                             </li>
                         </ol>
                     </div>
