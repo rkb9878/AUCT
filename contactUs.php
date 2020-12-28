@@ -78,19 +78,19 @@
                     <div class="card-body">
                         <ol>
                             <li>
-                                1. Punjab University Chandigarh
+                                1. <b>Punjab University Chandigarh</b>
                                 <br>
                                 &nbsp;&nbsp;&nbsp;&nbsp;Prof. Gaurav Vij <br>
                                 &nbsp;&nbsp;&nbsp;&nbsp;(DAV College Abhoar)
                             </li>
                             <li>
-                                2. Guru Nanak Dev University, Amritsar
+                                2. <b>Guru Nanak Dev University, Amritsar</b>
                                 <br>
                                 &nbsp;&nbsp;&nbsp;&nbsp;Prof. Dr. Parminder Kaur <br>
                                 &nbsp;&nbsp;&nbsp;&nbsp;( BD Arya College Jalandhar)
                             </li>
                             <li>
-                                3. Punjabi University, Patiala
+                                3. <b>Punjabi University, Patiala</b>
                                 <br>
                                 &nbsp;&nbsp;&nbsp;&nbsp;Prof. Jagpinder Singh<br>
                                 &nbsp;&nbsp;&nbsp;&nbsp;( SGTP Khalsa College Anandpur Sahib)
