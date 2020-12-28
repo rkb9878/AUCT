@@ -82,18 +82,21 @@
                                 <br>
                                 &nbsp;&nbsp;&nbsp;&nbsp;Prof. Gaurav Vij <br>
                                 &nbsp;&nbsp;&nbsp;&nbsp;(DAV College Abhoar)
+                                <br>
                             </li>
                             <li>
                                 2. <b>Guru Nanak Dev University, Amritsar</b>
                                 <br>
                                 &nbsp;&nbsp;&nbsp;&nbsp;Prof. Dr. Parminder Kaur <br>
                                 &nbsp;&nbsp;&nbsp;&nbsp;( BD Arya College Jalandhar)
+                                <br>
                             </li>
                             <li>
                                 3. <b>Punjabi University, Patiala</b>
                                 <br>
                                 &nbsp;&nbsp;&nbsp;&nbsp;Prof. Jagpinder Singh<br>
                                 &nbsp;&nbsp;&nbsp;&nbsp;( SGTP Khalsa College Anandpur Sahib)
+                                <br>
                             </li>
                         </ol>
                     </div>
