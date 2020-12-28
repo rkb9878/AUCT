@@ -43,7 +43,7 @@
                 <p><b><i class=" fas fa-at text-warning" aria-hidden="true"></i>
                     </b>auct.teacher@gmail.com</p>
                 <p><b><i class=" text-success fas fa-phone-square-alt"></i>
-                93168 19379</b></p>
+                        93168 19379</b></p>
                 <hr>
                 <p class="font-weight-bold"><b><i class=" fas fa-user text-primary"></i>
                     </b>Prof.Prabal Kumar Joshi (Vice President)</p>
@@ -65,15 +65,46 @@
 
                 <p><b><i class=" text-success fas fa-phone-square-alt"></i> 94173 00730</b></p>
                 <hr>
-                <p class="font-weight-bold"><b><i class=" fas fa-user text-primary"></i> </b>Prof. Tarun Ghai (Member of Governing Body)</p>
+                <p class="font-weight-bold"><b><i class=" fas fa-user text-primary"></i> </b>Prof. Tarun Ghai (Member of
+                    Governing Body)</p>
 
                 <p><b><i class=" text-success fas fa-phone-square-alt"></i>98721 11224 </b></p>
                 <hr>
-                <p class="font-weight-bold"><b><i class=" fas fa-user text-primary"></i> </b>Prof. Gaurav Vij (DAV College Abhoar)</p>
+                <p class="font-weight-bold"><b><i class=" fas fa-user text-primary"></i> </b>Prof. Gaurav Vij (DAV
+                    College Abhoar)</p>
                 <hr>
-                <p class="font-weight-bold"><b><i class=" fas fa-user text-primary"></i> </b>Prof. Dr. Parminder Kaur ( BD Arya College Jalandhar)</p>
+                <p class="font-weight-bold"><b><i class=" fas fa-user text-primary"></i> </b>Prof. Dr. Parminder Kaur (
+                    BD Arya College Jalandhar)</p>
                 <hr>
-                <p class="font-weight-bold"><b><i class=" fas fa-user text-primary"></i> </b> Prof. Jagpinder Singh ( SGTP Khalsa College Anandpur Sahib).</p>
+                <p class="font-weight-bold"><b><i class=" fas fa-user text-primary"></i> </b> Prof. Jagpinder Singh (
+                    SGTP Khalsa College Anandpur Sahib).</p>
+                <div class="card">
+                    <div class="card-header bg-primary">
+                        <b>Convener ( University wise)</b>
+                    </div>
+                    <div class="card-body">
+                        <ol>
+                            <li>
+                                1. Punjab University Chandigarh
+                                <br>
+                                &nbsp;&nbsp;&nbsp;&nbsp;Prof. Gaurav Vij <br>
+                                &nbsp;&nbsp;&nbsp;&nbsp;(DAV College Abhoar)
+                            </li>
+                            <li>
+                                2. Guru Nanak Dev University, Amritsar
+                                <br>
+                                &nbsp;&nbsp;&nbsp;&nbsp;Prof. Dr. Parminder Kaur <br>
+                                &nbsp;&nbsp;&nbsp;&nbsp;( BD Arya College Jalandhar)
+                            </li>
+                            <li>
+                                3. Punjabi University, Patiala
+                                <br>
+                                &nbsp;&nbsp;&nbsp;&nbsp;Prof. Jagpinder Singh<br>
+                                &nbsp;&nbsp;&nbsp;&nbsp;( SGTP Khalsa College Anandpur Sahib)
+                            </li>
+                        </ol>
+                    </div>
+                </div>
             </div>
         </div>
 
@@ -110,7 +141,6 @@
                                     <i class="fa fa-phone"></i>
                                 </label>
                             </div>
-
 
 
                             <div class="wrap-input100 validate-input" data-validate="Message is required">
@@ -169,8 +199,8 @@
 <script>
     function onClick(e) {
         e.preventDefault();
-        grecaptcha.ready(function() {
-            grecaptcha.execute('6Lcr6hcaAAAAAPO5uUzPWwD7KBO3JfqfdnzWqhVh', {action: 'submit'}).then(function(token) {
+        grecaptcha.ready(function () {
+            grecaptcha.execute('6Lcr6hcaAAAAAPO5uUzPWwD7KBO3JfqfdnzWqhVh', {action: 'submit'}).then(function (token) {
                 // Add your logic to submit to your backend server here.
                 console.log(token);
             });
