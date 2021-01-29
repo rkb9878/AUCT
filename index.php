@@ -26,16 +26,16 @@
                         </ol>
                         <div class="carousel-inner">
                             <div class="carousel-item active">
-                                <img class="d-block w-100 carousel-image" src="images/carousel/5.jpeg" alt="First slide">
+                                <img class="d-block w-100 carousel-image" src="images/carousel/new/new_1.jpeg" alt="First slide">
                             </div>
                             <div class="carousel-item">
-                                <img class="d-block w-100 carousel-image" src="images/carousel/6.jpeg" alt="Second slide">
+                                <img class="d-block w-100 carousel-image" src="images/carousel/new/new_2.jpeg" alt="Second slide">
                             </div>
                             <div class="carousel-item">
-                                <img class="d-block w-100 carousel-image" src="images/carousel/7.jpeg" alt="Third slide">
+                                <img class="d-block w-100 carousel-image" src="images/carousel/new/new_3.jpeg" alt="Third slide">
                             </div>
                             <div class="carousel-item">
-                                <img class="d-block w-100 carousel-image" src="images/carousel/8.jpeg" alt="Second slide">
+                                <img class="d-block w-100 carousel-image" src="images/carousel/new/new_5.jpeg" alt="Second slide">
                             </div>
                         </div>
                         <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
