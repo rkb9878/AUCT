@@ -40,7 +40,7 @@
             </tr>
             <tr>
                 <td>2</td>
-                <td><img src="images/members/prabal%20joshi.png" width="80px" alt=""></td>
+                <td><img src="images/members/prabalJoshi.jpeg" width="80px" alt=""></td>
                 <td>Prof.Prabal Joshi</td>
                 <td>Asst. Professor</td>
                 <td>Vice President</td>

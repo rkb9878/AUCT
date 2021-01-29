@@ -64,6 +64,10 @@
                                         <li><a href="gallery.php">Unaided Teachers of colleges Form Association to raise their issues</a></li>
                                         <li><a href="gallery.php">Unaided Teachers of Colleges Form Association to raise their issues</a></li>
                                         <li><a href="gallery.php">Unaided Teachers of Colleges Submit Memo to Minister.</a></li>
+                                        <li><a href="gallery.php">Govt will meet demands: Dist Congchief to teacher</a></li>
+                                        <li><a href="gallery.php">Teacher of Unaided colleges send memo to chief minister</a></li>
+                                        <li><a href="gallery.php">Unaided Teachers of Colleges Submit Memo to Minister.</a></li>
+                                        <li><a href="gallery.php">Unaided Teachers of Colleges Submit Memo to Minister over service security.</a></li>
                                         <!--                                <li>End up doing is adding some code</li>-->
                                         <!--                                <li>The code that you want to run</li>-->
                                         <!--                                <li>Inside of which is the code that you want to run</li>-->
