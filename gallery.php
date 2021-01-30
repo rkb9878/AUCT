@@ -16,7 +16,18 @@
 
 <div class="container mt-4 mb-5">
     <div class="card-wrapper">
-
+        <div class="box-shadow1">
+            <a href="media/gallery/new_2.jpeg" data-lightbox="image-1"><img src="media/gallery/new_2.jpeg" class="gallery-image" alt=""></a>
+        </div>
+        <div class="box-shadow1">
+            <a href="media/gallery/new_3.jpeg" data-lightbox="image-1"><img src="media/gallery/new_3.jpeg" class="gallery-image" alt=""></a>
+        </div>
+        <div class="box-shadow1">
+            <a href="media/gallery/new_4.jpeg" data-lightbox="image-1"><img src="media/gallery/new_4.jpeg" class="gallery-image" alt=""></a>
+        </div>
+        <div class="box-shadow1">
+            <a href="media/gallery/new_5.jpeg" data-lightbox="image-1"><img src="media/gallery/new_5.jpeg" class="gallery-image" alt=""></a>
+        </div>
         <div class="box-shadow1">
             <a href="media/gallery/2nd.jpeg" data-lightbox="image-1"><img src="media/gallery/2nd.jpeg" class="gallery-image" alt=""></a>
         </div>
@@ -74,18 +85,7 @@
         <div class="box-shadow1">
             <a href="media/gallery/new_1.jpeg" data-lightbox="image-1"><img src="media/gallery/new_1.jpeg" class="gallery-image" alt=""></a>
         </div>
-        <div class="box-shadow1">
-            <a href="media/gallery/new_2.jpeg" data-lightbox="image-1"><img src="media/gallery/new_2.jpeg" class="gallery-image" alt=""></a>
-        </div>
-        <div class="box-shadow1">
-            <a href="media/gallery/new_3.jpeg" data-lightbox="image-1"><img src="media/gallery/new_3.jpeg" class="gallery-image" alt=""></a>
-        </div>
-        <div class="box-shadow1">
-            <a href="media/gallery/new_4.jpeg" data-lightbox="image-1"><img src="media/gallery/new_4.jpeg" class="gallery-image" alt=""></a>
-        </div>
-        <div class="box-shadow1">
-            <a href="media/gallery/new_5.jpeg" data-lightbox="image-1"><img src="media/gallery/new_5.jpeg" class="gallery-image" alt=""></a>
-        </div>
+
     </div>
 </div>
 
